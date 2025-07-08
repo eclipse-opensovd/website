@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 Frank Scholter Peres <frank.scholter_peres@mercedes-benz.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Community Code of Conduct
 
 **Version 2.0

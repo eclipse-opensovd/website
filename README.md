@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 Frank Scholter Peres <frank.scholter_peres@mercedes-benz.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Eclipse OpenSOVD
 
 Modern vehicles are increasingly complex, requiring standardized, interoperable communication protocols for diagnostics and maintenance. The Service-Oriented Vehicle Diagnostics (SOVD) standard, defined in [ISO 17978](https://www.iso.org/standard/85133.html), addresses this need by specifying a service-based architecture for secure and scalable access to diagnostic data and functions. However, the automotive ecosystem lacks open-source implementations that developers, researchers, and OEMs can use to experiment, validate, or integrate SOVD into software-defined vehicles (SDVs).
