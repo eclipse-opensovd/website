@@ -78,6 +78,9 @@ nb-configuration.xml
 Thumbs.db
 .bash_history
 
+# Hugo
+.hugo_build.lock
+
 # General
 .cache/
 .direnv/
