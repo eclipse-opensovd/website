@@ -10,7 +10,6 @@ __pycache__/
 *.pyd
 *.egg
 *.egg-info/
-dist/
 build/
 env/
 venv/
@@ -38,7 +37,6 @@ Cargo.lock
 *.idb
 *.lib
 *.exp
-*.log
 compile_commands.json
 
 # HTML
@@ -84,6 +82,7 @@ Thumbs.db
 
 # Hugo
 .hugo_build.lock
+/opensovd-website/public/
 
 # General
 .cache/
@@ -98,3 +97,7 @@ tools/puncover_tool/output/
 doc/doxygenOut
 doc/doc-coverage.info
 doc/DoxygenWarningLog.txt
+*/node_modules/
+*/package-lock.json
+
+
