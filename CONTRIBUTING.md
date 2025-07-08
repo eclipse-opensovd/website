@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 Frank Scholter Peres <frank.scholter_peres@mercedes-benz.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Contributing
 
 Welcome to the OpenSOVD community. Start here for info on how to contribute and help improve our project.
